@@ -94,20 +94,20 @@
 	</dependencies>
 	
 	<distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+
+            <repository>
+              <id>nexus</id>
+              <name>Axis Bank Releases Nexus Repository</name>
+              <url>http://172.31.1.27:9701/jopr/repository/AxisBank-release/</url>
+            </repository>
+
+            <snapshotRepository>
+              <id>nexus</id>
+              <name>Axis Bank Snapshot Nexus Repository </name>
+              <url>http://172.31.1.27:9701/jopr/repository/AxisBank-Snapshot/</url>
+            </snapshotRepository>
+
+        </distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
