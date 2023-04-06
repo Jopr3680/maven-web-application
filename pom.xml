@@ -98,13 +98,13 @@
             <repository>
               <id>nexus</id>
               <name>Axis Bank Releases Nexus Repository</name>
-              <url>http://172.31.1.27/:9701/jopr/repository/AxisBank-release/</url>
+              <url>http://13.126.9.12:9701/jopr/repository/AxisBank-release/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
               <name>Axis Bank Snapshot Nexus Repository </name>
-              <url>http://172.31.1.27/:9701/jopr/repository/AxisBank-Snapshot/</url>
+              <url>http://13.126.9.12:9701/jopr/repository/AxisBank-Snapshot/</url>
             </snapshotRepository>
 
         </distributionManagement>
