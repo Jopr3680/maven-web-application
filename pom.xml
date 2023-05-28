@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>AxisBank Releases Nexus Repository</name>
 	      <url>http://43.204.108.153:9701/jopr/repository/AxisBank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>AxisBank Snapshot Nexus Repository </name>
 	      <url>http://43.204.108.153:9701/jopr/repository/AxisBank-Snapshot/</url>
 	    </snapshotRepository>
 	    
